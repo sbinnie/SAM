@@ -1,0 +1,5 @@
+SAM - a minor Sports Association Management component for Joomla! 2.5+.
+
+The component is to manage the registration and allocation of players, teams, divisions, sponsors and coaching staff. The 
+component also maintains the executive contact list and provides front end addition of team nes by coaches. The team
+news can then be allocated to team-specific email correspondence.
